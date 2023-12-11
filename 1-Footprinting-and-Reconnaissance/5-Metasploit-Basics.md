@@ -1,5 +1,5 @@
 # Information Gathering using Metasploit
-The Metasploit Framework is a tool that provides information about secuirty vulnerabilities and aids in penetration testing and IDS signature development.<br>
+The Metasploit Framework is a tool that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.<br>
 _Official repository:_ https://github.com/rapid7/metasploit-framework
 
 **Metasploit version: 5.0.59-dev** 
